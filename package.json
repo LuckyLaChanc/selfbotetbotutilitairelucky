@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "battlefield-stats": "^1.0.8",
+    "discord.js": "^11.4.2",
+    "fortnite": "^4.1.1",
+    "https": "^1.0.0",
+    "ms": "^2.1.1",
+    "pubg": "^0.4.6",
+    "rainbowsix-api-node": "0.0.1",
+    "weather-js": "^2.0.0"
+  }
+}
